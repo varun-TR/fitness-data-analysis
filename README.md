@@ -12,7 +12,7 @@ So, the process starts with collecting data from a fitness watch. Every fitness 
 
 #--insights gained--#
 
-#Performed exploratory data analysis (EDA) to gain insights into the distribution, trends, and patterns of each fitness metric.
-#Created visualizations to depict how different metrics vary over time, across different time intervals, or in relation to one another.
-#Analyzed how step count, distance, energy burned, and other metrics correlate with each other.
-#Identifed potential patterns in walking efficiency, energy expenditure, and the relationship between step count and walking speed.
+Performed exploratory data analysis (EDA) to gain insights into the distribution, trends, and patterns of each fitness metric.
+Created visualizations to depict how different metrics vary over time, across different time intervals, or in relation to one another.
+Analyzed how step count, distance, energy burned, and other metrics correlate with each other.
+Identifed potential patterns in walking efficiency, energy expenditure, and the relationship between step count and walking speed.
