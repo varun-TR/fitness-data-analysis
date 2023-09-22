@@ -1,4 +1,4 @@
-# fitness-data-analysis
+# Fitness-data-analysis
 
 Below is the process followed while working on the problem of Fitness Watch Data Analysis:
 
