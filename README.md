@@ -34,3 +34,6 @@ Monitoring Progress: Tracking the linear relationship between distance and step 
 Personalized Training Plans: These insights can be used to create personalized training plans that align with the individual's natural activity patterns and efficiency peaks.
 
 In summary, the data from the fitness watch can be valuable for optimizing fitness routines, setting achievable goals, and understanding when the individual is most efficient in their physical activities. This information can contribute to a more effective and enjoyable fitness journey.
+
+
+note: If code is broken, change spelling to avg_**step**_count in code .
