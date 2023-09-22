@@ -16,3 +16,21 @@ Performed exploratory data analysis (EDA) to gain insights into the distribution
 Created visualizations to depict how different metrics vary over time, across different time intervals, or in relation to one another.
 Analyzed how step count, distance, energy burned, and other metrics correlate with each other.
 Identifed potential patterns in walking efficiency, energy expenditure, and the relationship between step count and walking speed.
+
+#--insights gained--#
+
+#1. step count increasing in evening times around 5pm upto 8pm in few days
+#2. Distance and step count are linearly increasing
+#3. walking effeciency high at 7pm but low at 10am
+
+overall:
+
+Optimal Workout Timing: Knowing that the individual's step count and walking efficiency are higher in the evening, it might be advisable to schedule more intense workouts during this time to make the most of their energy and efficiency.
+
+Goal Setting: The data can be used to set daily step count or distance goals. For example, if the person consistently achieves higher step counts in the evening, they can set a higher goal for their evening workouts.
+
+Monitoring Progress: Tracking the linear relationship between distance and step count can be a useful way to monitor progress over time. If this relationship shifts, it could indicate changes in fitness or walking/running efficiency.
+
+Personalized Training Plans: These insights can be used to create personalized training plans that align with the individual's natural activity patterns and efficiency peaks.
+
+In summary, the data from the fitness watch can be valuable for optimizing fitness routines, setting achievable goals, and understanding when the individual is most efficient in their physical activities. This information can contribute to a more effective and enjoyable fitness journey.
