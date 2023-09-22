@@ -10,7 +10,7 @@ Segment user’s activity based on time intervals or the level of fitness metric
 
 So, the process starts with collecting data from a fitness watch. Every fitness watch works with an app on your smartphone. You can collect data from that app on your smartphone. For example, in my case, I collected my fitness watch’s data from Apple’s Health app. If you will also collect fitness data from any app, it will not be in a format to be used for analysis. So, I have already made a clean version of the data available online.
 
-#--insights gained--#
+#--insights to gain--#
 
 Performed exploratory data analysis (EDA) to gain insights into the distribution, trends, and patterns of each fitness metric.
 Created visualizations to depict how different metrics vary over time, across different time intervals, or in relation to one another.
